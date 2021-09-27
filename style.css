@@ -1,0 +1,181 @@
+body{
+    font-family: 'Roboto', sans-serif ;
+}
+h5{
+    font-size: 25px;
+    color: #fff; 
+}
+h1{
+    font-size: 70px;
+    color: #fff;
+    padding-top: 60px;
+}
+h2{
+    font-size: 60px;
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+h4{
+    padding-top: 20px;
+}
+body .main-p{
+    color: 	#868686 ;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-bottom: 40px;
+}
+#main-screen{
+    background-image: url(images/main\ screen.webp);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 40px;
+}
+.main-screen .navbar-brand{
+    color: #fafafa;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif ;
+    font-weight: bolder;
+}
+.main-screen .navbar-toggler{
+    border: none;
+    font-size: 30px;
+}
+.main-screen a{
+    color: gray;
+}
+.main-screen a:hover{
+    color: #fff;
+}
+.main-screen .btn{
+    width: 180px;
+    height: 50px;
+    position: relative;
+    margin-top: 30px;
+}
+.main-screen .nav-item{
+    width: 200px;
+    height: 50px;
+    background-color: #fff;
+}
+/*home*/
+#home{
+    padding:60px 0 ;
+}
+.home .home-img{
+    width: 100%;
+}
+.home .justify-content-between{
+    margin-left: 40px;
+}
+.home a {
+    position: relative;
+    margin-top:50px ;
+    margin-left: 40px;
+    font-size: 40px;
+    text-decoration: none;
+    color:#7FFFD4;
+}
+.home a:hover{
+    color: #000;
+}
+/*about*/
+#about-us{
+    background-color: 	#DCDCDC;
+}
+.about-us .fas{
+    font-size: 70px;
+    color: #F0F2F3;
+    padding-bottom: 30px;
+}
+/*management*/
+#management{
+    padding: 70px ;
+}
+/*blog post*/
+#blog-post{
+    background-color: #65B7AE;
+}
+.blog-post .card-title{
+    text-decoration: none;
+    color: #000;
+    font-size: 30px;
+}
+.blog-post.card-title:hover{
+color:#65B7AE ;
+}
+/*customer*/
+#customer{
+    background-color:#DCDCDC ;
+    padding-bottom: 50px;
+}
+.customer .customer-img{
+    width: 50px;
+    border-radius: 50%;
+}
+/*Destination*/
+#destination{
+    padding-bottom:50px ;
+}
+.destination span .checked{
+    color: orange;
+}
+.destination div .star-p{
+    float: right;
+    color:#868686 ;
+}
+.destination .card-title{
+    text-decoration: none;
+    color: #000;
+    font-size: 40px;
+}
+/*Footer*/
+#footer{
+    background-color: #303131;
+    padding: 80px 0;
+    color: #fff;
+}
+.footer ul li{
+    list-style: none;
+    margin: inherit;
+}
+.footer-a{
+    color: #868686;
+    text-decoration: none;
+    font-family: sans-serif;
+    margin: 10px;
+    margin-left: -20px;
+}
+.footer-a:hover{
+    color: #fff;
+}
+.footer h6{
+    font-style: italic;
+    padding-top: 20px;
+}
+.footer p{
+    color:#868686 ;
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+.email-footer{
+    background-color: #868686; 
+    width: 260px;
+}
+#footer-2{
+    background-color:#303131 ;
+    padding: 10px 0 50px 0;
+    color:#868686 ;
+}
+.footer-2  .fab{
+    color:#868686 ;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.footer-2 .fab:hover{
+    color: #fff;
+}
+
+
+
